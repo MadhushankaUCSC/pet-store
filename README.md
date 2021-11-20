@@ -105,6 +105,4 @@ Method - GET
 URL http://localhost:8080/pets/search-pet
 
 
-## Deploying Application
 
-To deploy the demo app on a docker-compose please visit [./deploy](https://github.com/rasika/petstore/tree/master/deploy)
